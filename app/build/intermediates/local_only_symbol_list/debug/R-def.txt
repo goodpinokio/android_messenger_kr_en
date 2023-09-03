@@ -1,0 +1,27 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable gradient_box
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable intro
+drawable round_button
+id button
+id delayTextView
+id detailTextView
+id imageView
+id mainTextView
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string intro_button
+string intro_delay
+string intro_detail
+string intro_main
+string intro_more
+style Base.Theme.Test9
+style Theme.Test9
+xml backup_rules
+xml data_extraction_rules

@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.test9.app-mergeDebugResources-26:/values-ko-rKR/values-ko-rKR.xml",
+            "map": [
+                {
+                    "source": "E:\\dev\\android_prj\\test9\\app\\src\\main\\res\\values-ko-rKR\\strings.xml",
+                    "from": {
+                        "startLines": "2,11,12,6,3,10",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "57,423,468,199,108,376",
+                        "endLines": "2,11,12,9,5,10",
+                        "endColumns": "49,43,46,13,13,45",
+                        "endOffsets": "102,462,510,370,193,417"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,9,12",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,105,149,196,369,457",
+                        "endLines": "2,3,4,8,11,12",
+                        "endColumns": "49,43,46,13,13,45",
+                        "endOffsets": "100,144,191,364,452,498"
+                    }
+                }
+            ]
+        }
+    ]
+}

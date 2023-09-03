@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Ch9_Resource</string>
+    <string name="intro_button">Trun ON</string>
+    <string name="intro_delay">NOT NOW</string>
+    <string name="intro_detail">
+        Continuously uploading yout contacts helps Facebook and Messenger suggest connections
+        and provide and imporve ads for you and others, and offer a better sevice.
+    </string>
+    <string name="intro_main">
+        Find your phone contacts on Messenger
+    </string>
+    <string name="intro_more">Learn More</string>
+    <style name="Base.Theme.Test9" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Test9" parent="Base.Theme.Test9"/>
+</resources>
